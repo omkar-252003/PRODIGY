@@ -11,7 +11,7 @@ A Frontend project application for weather forecast
 * Openweather API
 
 #
-* Deployed using Vercel.app
+* Deployed using Netlify.app
 
 Click here for live demo : [Weather Report by Omkar](https://weatherapp-omkarmurthyp.netlify.app/)
 
