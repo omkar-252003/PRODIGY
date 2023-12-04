@@ -10,6 +10,6 @@ A Frontend game application for Web
 * Vanilla Javascript
 
 #
-* Deployed using Vercel.app
+* Deployed using Netlify.app
 
 Click here for live demo : [Tic-tac-toe](https://omkar-tictactoe-game.netlify.app/)
